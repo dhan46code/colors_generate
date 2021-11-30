@@ -65,7 +65,7 @@ form button:hover {
 
 .copy-icons {
   position: absolute;
-  top: 20%;
+  top: 15%;
   left: 50%;
   transform: translateX(-50%);
   font-size: 2rem;
@@ -122,5 +122,8 @@ form button:hover {
   }
   .value-hex {
     font-size: 1.5rem;
+  }
+  .copy-icons {
+    top: 100px;
   }
 }
